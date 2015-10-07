@@ -1,0 +1,208 @@
+{
+    "candidates":[{
+            "name":"Grace Poe",
+            "pulseRP":26,
+            "pulseNCR":26,
+            "pulseBL":31,
+            "pulseVIS":20,
+            "pulseMIN":20,
+            "pulseABC":22,
+            "pulseD":26,
+            "pulseE":25,
+            "color": "#6BB9F0",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Mar Roxas",
+            "pulseRP":20,
+            "pulseNCR":11,
+            "pulseBL":18,
+            "pulseVIS":34,
+            "pulseMIN":15,
+            "pulseABC":22,
+            "pulseD":19,
+            "pulseE":20,
+            "color": "#F7CA18",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Jojo Binay",
+            "pulseRP":19,
+            "pulseNCR":22,
+            "pulseBL":21,
+            "pulseVIS":16,
+            "pulseMIN":17,
+            "pulseABC":17,
+            "pulseD":19,
+            "pulseE":20,
+            "color": "#D35400",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+          "name":"Rody Duterte",
+            "pulseRP":16,
+            "pulseNCR":21,
+            "pulseBL":8,
+            "pulseVIS":14,
+            "pulseMIN":29,
+            "pulseABC":20,
+            "pulseD":16,
+            "pulseE":12,
+            "color": "#96281B",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Bongbong Marcos",
+            "pulseRP":6,
+            "pulseNCR":7,
+            "pulseBL":9,
+            "pulseVIS":2,
+            "pulseMIN":3,
+            "pulseABC":7,
+            "pulseD":6,
+            "pulseE":5,
+            "color": "#019875",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Erap Estrada",
+            "pulseRP":5,
+            "pulseNCR":2,
+            "pulseBL":5,
+            "pulseVIS":3,
+            "pulseMIN":10,
+            "pulseABC":2,
+            "pulseD":5,
+            "pulseE":9,
+            "color": "#03A678",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Miriam Santiago",
+            "pulseRP":3,
+            "pulseNCR":3,
+            "pulseBL":3,
+            "pulseVIS":4,
+            "pulseMIN":1,
+            "pulseABC":4,
+            "pulseD":2,
+            "pulseE":4,
+            "color": "#4DAF7C",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+            "name":"Ping Lacson",
+            "pulseRP":2,
+            "pulseNCR":3,
+            "pulseBL":2,
+            "pulseVIS":1,
+            "pulseMIN":1,
+            "pulseABC":2,
+            "pulseD":1,
+            "pulseE":2,
+            "color": "#2ABB9B",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+          {
+            "name":"Alan Peter Cayetano",
+            "pulseRP":1,
+            "pulseNCR":2,
+            "pulseBL":1,
+            "pulseVIS":1,
+            "pulseMIN":1,
+            "pulseABC":1,
+            "pulseD":1,
+            "pulseE":1,
+            "color": "#00B16A",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+          {
+            "name":"Walden Bello",
+            "pulseRP":0.1,
+            "pulseNCR":0,
+            "pulseBL":0,
+            "pulseVIS":0,
+            "pulseMIN":0,
+            "pulseABC":0,
+            "pulseD":0,
+            "pulseE":0,
+            "color": "#1E824C",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+           "name":"Others",
+            "pulseRP":0.5,
+            "pulseNCR":1,
+            "pulseBL":1,
+            "pulseVIS":1,
+            "pulseMIN":0,
+            "pulseABC":0,
+            "pulseD":0,
+            "pulseE":1,
+            "color": "#95A5A6",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        },
+        {
+           "name":"Don't know/Refused/None",
+            "pulseRP":2,
+            "pulseNCR":2,
+            "pulseBL":3,
+            "pulseVIS":3,
+            "pulseMIN":2,
+            "pulseABC":2,
+            "pulseD":3,
+            "pulseE":3,
+            "color": "#6C7A89",
+            "highlights" : [
+            "LOREM",
+            "IPSUM",
+            "DOLOR"
+            ]
+        }
+
+    ]
+}

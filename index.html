@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pulse Asia: September 2015 Nationwide Survey on the May 2016 Philippine Elections</title>
+
+    <!-- Custom Font - -->
+    <link href='https://fonts.googleapis.com/css?family=Oswald:300,700,400' rel='stylesheet' type='text/css'>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- Custom CSS inside CSS folder -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <link rel="stylesheet" href="css/tabs.css" />
+
+  </head>
+  <body>
+
+<br>
+<br>
+<header><h1><font size="21"> #PhVote2016 </font></h1></header>
+<br>
+<br>
+<center>
+  <section class="page">
+
+      <div class="tabs">
+
+        <ul class="tab-list">
+          <li class="active"><a class="tab-control" href="#tab-1"><h2>Scope of the Research</h2></a></li>
+          <li><a class="tab-control" href="#tab-2"><h2>Highlights</h2></a></li>
+        </ul>
+
+        <div class="tab-panel active" id="tab-1" align="left">
+          <p> The survey fieldwork was conducted by Pulse Asia Research, Inc. from September 8 to 14, 2015 using face-to-face interviews. </p>
+           <p> This nationwide survey is based on a sample  of 2,400 representative adults 19 years old and above and has a +/- 2% error margin at the 95% confidence level. </p>
+           <p> Subnational estimates for Metro Manila, the rest of Luzon, Visayas and Mindanao have a +/- 4% error margin, also at 95% confidence level.  </p>
+        </div>
+
+        <div class="tab-panel" id="tab-2" align="left">
+           <p> Senator Grace Poe leads the May 2016 presidential race at 26% while second place is shared by three other probable presidential candidates.  </p>
+           <p> Sharing second place are former Department of Interior and Local Government Secretary Manuel A. Roxas II at 20%,  Vice President Jojo Binay at 19% and Davao City Mayor Rodrigo Duterte at 16%. </p>
+        </div>
+
+      </div><!-- .tabs -->
+
+    </section><!-- .page -->
+  </center>
+
+<br>
+
+
+        <section>
+<br>
+<header><h1>Key Developments</h1></header>
+<center><p> which took place in the weeks immediately prior to and during the conduct of the interviews for the survey </p> </center> 
+          <div class="slider">
+            <div class="slide-viewer">
+              <div class="slide-group">
+                <div class="slide slide-1">
+                  <img src="img/slide-1.jpg" alt="LP" />
+                </div>
+                <div class="slide slide-2">
+                  <img src="img/slide-2.jpg" alt="SC"  />
+                </div>
+                <div class="slide slide-3">
+                  <img src="img/slide-3.jpg" alt="LP" />
+                </div>
+                <div class="slide slide-4">
+                  <img src="img/slide-4.jpg" alt="SC"  />
+                </div>
+                <div class="slide slide-5">
+                  <img src="img/slide-5.jpg" alt="LP" />
+                </div>
+                <div class="slide slide-6">
+                  <img src="img/slide-6.jpg" alt="SC"  />
+                </div>
+                <div class="slide slide-7">
+                  <img src="img/slide-7.jpg" alt="LP" />
+                </div>
+              </div>
+            </div>
+            <div class="slide-buttons"></div>
+          </div>
+
+        </section>
+<br>
+<br>
+<header><h1> Presidential Preference as of September 14</h1></header>
+<center><p> If Filipinos were to vote today, who would win the May 2016 Elections?</p> </center>
+<center><p> Place your cursor on the chart.</p> </center>  
+<br>
+<br>
+            <canvas id="doughnutChart" width="500" height="500"> </canvas> 
+<br>
+<br>
+<br>
+
+<header><h1>Preference by Geographic Location and Class</h1></header>
+<center><p> Click a location or class.</p> </center>  
+
+<br>
+<div id="preferenceHolder">
+ <a href="#" class="filter">
+    <div>
+      <ul id="tabNCR" > National Capital Region </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+     <ul id="tabBL"> Rest of Luzon </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+      <ul id="tabVIS"> Visayas </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+      <ul  id="tabMIN"> Mindanao </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+      <ul id="tabABC"> ABC </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+      <ul id="tabD"> D </ul>
+    </div>
+ </a>
+ <a href="#" class="filter">
+    <div>
+      <ul id="tabE"> E </ul>
+    </div>
+ </a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+
+
+<div class="person">
+  <div>
+    <img src="img/Grace.png" alt="Grace Poe" width="80" height="80"> Grace POE : <span id="candidate1">26</span> %
+  </div>
+  <div>
+    <img src="img/Mar.png" alt="Mar Roxas" width="80" height="80">Mar ROXAS : <span id="candidate2">20</span> %
+  </div>
+  <div>
+    <img src="img/Binay.png" alt="Jojo Binay" width="80" height="80">Jojo BINAY : <span id="candidate3">19</span> %
+  </div>
+  <div>
+    <img src="img/Duterte.png" alt="Rody Duterte" width="80" height="80">Rody DUTERTE : <span id="candidate4">16</span> %
+  </div>
+</div>
+
+<br>
+<br>
+<br>
+
+
+<!-- START LINE CHART SECTION -->
+<div class="col-md-12">
+  <h1>Preference Over Time</h1>
+  <center><p> Place your cursor on the chart.</p> </center>  
+  <div id="lineChartLegend" class="legend"></div>
+  <canvas id="lineChart" width="1000" height="450"></canvas>
+</div>
+<!-- END LINE CHART SECTION -->
+<br>
+<br>
+<div> <h3> Source: Pulse Asia Research, Inc. September 2015 </h3> </div>
+
+
+
+    <!-- JQuery script -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="js/jquery-1.11.0.min.js"></script>
+
+    <!-- CHART JS -->
+    <script src="js/Chart.js"></script>
+
+    <!-- CUSTOM JS -->
+    <script src="js/main.js"></script>
+
+    <!-- slider JS -->
+    <script src="js/slider.js"></script>
+
+    <!-- tabs JS -->
+    <script src="js/tabs.js"></script>
+
+      </body>
+</html>
